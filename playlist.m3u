@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="galatasaray_-_fenerbahçe_(hd_1)_1" tvg-name="Galatasaray - Fenerbahçe (HD 1)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Galatasaray - Fenerbahçe (HD 1)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F601%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="roma_-_monza_(s_sport_2_hd)_2" tvg-name="Roma - Monza (S SPORT 2 HD)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Roma - Monza (S SPORT 2 HD)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F3451%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="sevilla_-_mallorca_(s_sport_hd)_3" tvg-name="Sevilla - Mallorca (S SPORT HD)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Sevilla - Mallorca (S SPORT HD)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F3450%2Fplaylist.m3u8
