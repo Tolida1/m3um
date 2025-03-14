@@ -1,7 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="galatasaray_-_fenerbahçe_(hd_1)_1" tvg-name="Galatasaray - Fenerbahçe (HD 1)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Galatasaray - Fenerbahçe (HD 1)
-https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F601%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="roma_-_monza_(s_sport_2_hd)_2" tvg-name="Roma - Monza (S SPORT 2 HD)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Roma - Monza (S SPORT 2 HD)
-https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F3451%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="sevilla_-_mallorca_(s_sport_hd)_3" tvg-name="Sevilla - Mallorca (S SPORT HD)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Sevilla - Mallorca (S SPORT HD)
-https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-62a04836e9.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F3450%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="bandırmaspor_-_adanaspor_(bein_sports_2)_1" tvg-name="Bandırmaspor - Adanaspor (beIN Sports 2)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Bandırmaspor - Adanaspor (beIN Sports 2)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5063%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="bandırmaspor_-_adanaspor_(trt_spor)_2" tvg-name="Bandırmaspor - Adanaspor (TRT Spor)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Bandırmaspor - Adanaspor (TRT Spor)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5032%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="araz_-_shamakhi_(cbc_sport)_3" tvg-name="Araz - Shamakhi (CBC Sport)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Araz - Shamakhi (CBC Sport)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5131%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="magdeburg_-_hamburg_(bein_sports_4)_4" tvg-name="Magdeburg - Hamburg (beIN Sports 4)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Magdeburg - Hamburg (beIN Sports 4)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5065%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="magdeburg_-_hamburg_(tivibu_spor_2)_5" tvg-name="Magdeburg - Hamburg (Tivibu Spor 2)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Magdeburg - Hamburg (Tivibu Spor 2)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5083%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="schalke_04_-_hannover_96_(bein_sports_5)_6" tvg-name="Schalke 04 - Hannover 96 (beIN Sports 5)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Schalke 04 - Hannover 96 (beIN Sports 5)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5066%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="schalke_04_-_hannover_96_(tivibu_spor_3)_7" tvg-name="Schalke 04 - Hannover 96 (Tivibu Spor 3)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Schalke 04 - Hannover 96 (Tivibu Spor 3)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5084%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="galatasaray_-_antalyaspor_(bein_sports_1)_8" tvg-name="Galatasaray - Antalyaspor (beIN Sports 1)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Galatasaray - Antalyaspor (beIN Sports 1)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5062%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Şanlıurfaspor_-_esenler_erokspor_(trt_spor)_9" tvg-name="Şanlıurfaspor - Esenler Erokspor (TRT Spor)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Şanlıurfaspor - Esenler Erokspor (TRT Spor)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5032%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Şanlıurfaspor_-_esenler_erokspor_(bein_sports_2)_10" tvg-name="Şanlıurfaspor - Esenler Erokspor (beIN Sports 2)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Şanlıurfaspor - Esenler Erokspor (beIN Sports 2)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5063%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="st.pauli_-_hoffenheim_(tivibu_spor_1)_11" tvg-name="St.Pauli - Hoffenheim (Tivibu Spor 1)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", St.Pauli - Hoffenheim (Tivibu Spor 1)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5082%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="st.pauli_-_hoffenheim_(bein_sports_4)_12" tvg-name="St.Pauli - Hoffenheim (beIN Sports 4)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", St.Pauli - Hoffenheim (beIN Sports 4)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5065%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="genoa_-_lecce_(cbc_sport)_13" tvg-name="Genoa - Lecce (CBC Sport)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Genoa - Lecce (CBC Sport)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5131%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="genoa_-_lecce_(tivibu_spor_2)_14" tvg-name="Genoa - Lecce (Tivibu Spor 2)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Genoa - Lecce (Tivibu Spor 2)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5083%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="nice_-_auxerre_(bein_sports_5)_15" tvg-name="Nice - Auxerre (beIN Sports 5)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Nice - Auxerre (beIN Sports 5)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5066%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="las_palmas_-_alaves_(tivibu_spor_3)_16" tvg-name="Las Palmas - Alaves (Tivibu Spor 3)" tvg-logo="https://i.hizliresim.com/e9ebj74.jpg" group-title="Spor", Las Palmas - Alaves (Tivibu Spor 3)
+https://faydalisite.com/lii/proxy.php?url=https%3A%2F%2Fa.strmrdr-cf-worker-2a86bce7ab.workers.dev%2Fbc2b05d321cb80050c5d035a9daeb26d%2F-%2F5084%2Fplaylist.m3u8
