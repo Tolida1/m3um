@@ -1,0 +1,148 @@
+{
+    "ormoxChnlx": [
+        {
+            "id": 1,
+            "isim": "Bein Sports 1",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-1/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 2,
+            "isim": "Bein Sports 2",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-2/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 3,
+            "isim": "Bein Sports 3",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-3/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 4,
+            "isim": "Bein Sports 4",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-4/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 5,
+            "isim": "Bein Sports 5",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-5/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 6,
+            "isim": "Bein Sports Max 1",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-max-1/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 7,
+            "isim": "Bein Sports Max 2",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/bein-sports-max-2/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 8,
+            "isim": "Tivibu Spor 1",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tivibu-spor-1/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 9,
+            "isim": "Tivibu Spor 2",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tivibu-spor-2/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 10,
+            "isim": "Tivibu Spor 3",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tivibu-spor-3/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 11,
+            "isim": "Tivibu Spor 4",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tivibu-spor-4/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 12,
+            "isim": "S Sport",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/s-sport/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 13,
+            "isim": "S Sport 2",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/s-sport-2/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 14,
+            "isim": "TRT 1",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/trt-1/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 15,
+            "isim": "TV8",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tv-8/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        },
+        {
+            "id": 16,
+            "isim": "TV 8 Buçuk",
+            "link": "https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/tv85b/playlist.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "7/24"
+        }
+    ]
+}
