@@ -2,105 +2,6 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Than KSVN (Bayanlar)  - Phong Phu Ha Nam (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844594__1__mediaplaylist.m3u8?s=0e3980a403f108adf7d769c4a141eaad22ffc02a7f783fc8ce2c1fc4c5f4f679&t=1743934690274&ai=3&av=1025&ui=0&videoid=15844594",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "11:30"
-        },
-        {
-            "id": 2,
-            "isim": "PVF-CAND  - Hue",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844694__1__mediaplaylist.m3u8?s=933d3920241f9ff904ed72dface59a7ba195c97b0874ee49441bc0608fbfa7af&t=1743934689726&ai=3&av=1025&ui=0&videoid=15844694",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "11:30"
-        },
-        {
-            "id": 3,
-            "isim": "SVG Reichenau  - FC Kitzbuhel",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844695__1__mediaplaylist.m3u8?s=7756a2c9c0eb4181d0498b8ac2d5c27d6840f17a21330482422d027e3b470a32&t=1743934689166&ai=3&av=1025&ui=0&videoid=15844695",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "11:30"
-        },
-        {
-            "id": 4,
-            "isim": "Hong Kong FutbolClub  - Hong Kong Rangers FC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844913__1__mediaplaylist.m3u8?s=d5a8614ccd102809110a86089ecb8d30f3cb50b4716c201fbb3870bfd10ca9a7&t=1743934688298&ai=3&av=1025&ui=0&videoid=15844913",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "11:30"
-        },
-        {
-            "id": 5,
-            "isim": "Kampaniakos Chalastras  - Larissa",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844817__1__mediaplaylist.m3u8?s=0cdb9ccab969ed017460b4912ccf6a56835283d1ee0aa29995fe5923e83e6286&t=1743934690578&ai=3&av=1025&ui=0&videoid=15844817",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "11:45"
-        },
-        {
-            "id": 6,
-            "isim": "TDCS Dong Thap F.C.  - Long An",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15845037__1__mediaplaylist.m3u8?s=ca40a97a66f2d107fac979ab4cf65fad3c65e344faface57f69783a466322e59&t=1743934690004&ai=3&av=1025&ui=0&videoid=15845037",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "12:00"
-        },
-        {
-            "id": 7,
-            "isim": "Dong Nai F.C.  - Khanh Hoa",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15845036__1__mediaplaylist.m3u8?s=d5769ff6b00905c897cf869aa04b7631da58785986f92dd7acc6abae6acfc0c5&t=1743934689440&ai=3&av=1025&ui=0&videoid=15845036",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "12:00"
-        },
-        {
-            "id": 8,
-            "isim": "SC Rheindorf Altach II  - FC Dornbirn 1913",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15844875__1__mediaplaylist.m3u8?s=5e86b4412bcf17ce438d08b6a95aac191ccc43ddeb02f943c6ea6d0e3003b789&t=1743934688886&ai=3&av=1025&ui=0&videoid=15844875",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "12:00"
-        },
-        {
-            "id": 9,
-            "isim": "Nairobi City Stars  - Kenya Polisi",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15845174__1__mediaplaylist.m3u8?s=7ec8dc1d1ced6512ddcb34a162e7208cc0f65b078e0ca0b0d838f4f50f0f54e4&t=1743934690872&ai=3&av=1025&ui=0&videoid=15845174",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "13:00"
-        },
-        {
-            "id": 10,
-            "isim": "Hoang Anh Gia Lai F.C.  - Becamex Binh Duong F.C.",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15845200__1__mediaplaylist.m3u8?s=592a811ebcd09d258dc62d74be3d84170ace4d321b64e45410ae0affab540731&t=1743934688605&ai=3&av=1025&ui=0&videoid=15845200",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "13:00"
-        },
-        {
-            "id": 11,
-            "isim": "Isloch  - Minsk",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15845237__1__mediaplaylist.m3u8?s=a0e1334a38efe10253e059054bf9335704bcf5986804a28a93819d0c2b23b848&t=1743934688013&ai=3&av=1025&ui=0&videoid=15845237",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "13:00"
-        },
-        {
-            "id": 12,
             "isim": "Alanyaspor  - Bodrum FK",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
             "kategori": "Spor",
@@ -109,7 +10,7 @@
             "group": "13:30"
         },
         {
-            "id": 13,
+            "id": 2,
             "isim": "Las Palmas  - Real Sociedad",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
@@ -118,7 +19,7 @@
             "group": "15:00"
         },
         {
-            "id": 14,
+            "id": 3,
             "isim": "Hatayspor  - Eyüpspor",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
             "kategori": "Spor",
@@ -127,16 +28,7 @@
             "group": "16:00"
         },
         {
-            "id": 15,
-            "isim": "Brentford  - Chelsea",
-            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 16,
+            "id": 4,
             "isim": "Fulham  - Liverpool",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
@@ -145,7 +37,16 @@
             "group": "16:00"
         },
         {
-            "id": 17,
+            "id": 5,
+            "isim": "Brentford  - Chelsea",
+            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "16:00"
+        },
+        {
+            "id": 6,
             "isim": "Sevilla  - Atletico Madrid",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
@@ -154,16 +55,7 @@
             "group": "17:15"
         },
         {
-            "id": 18,
-            "isim": "Union Berlin  - Wolfsburg",
-            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:30"
-        },
-        {
-            "id": 19,
+            "id": 7,
             "isim": "Manchester United  - Manchester City",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
@@ -172,16 +64,16 @@
             "group": "18:30"
         },
         {
-            "id": 20,
-            "isim": "MKE Ankaragücü  - Gençlerbirliği",
-            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
+            "id": 8,
+            "isim": "Union Berlin  - Wolfsburg",
+            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "18:30"
         },
         {
-            "id": 21,
+            "id": 9,
             "isim": "Fenerbahçe  - Trabzonspor",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
             "kategori": "Spor",
@@ -190,7 +82,16 @@
             "group": "19:00"
         },
         {
-            "id": 22,
+            "id": 10,
+            "isim": "MKE Ankaragücü  - Gençlerbirliği",
+            "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 11,
             "isim": "Valladolid  - Getafe",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
@@ -199,7 +100,7 @@
             "group": "19:30"
         },
         {
-            "id": 23,
+            "id": 12,
             "isim": "Lanus  - Independiente",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/spor-smart-2.m3u8",
             "kategori": "Spor",
@@ -208,7 +109,7 @@
             "group": "21:30"
         },
         {
-            "id": 24,
+            "id": 13,
             "isim": "Marsilya  - Toulouse",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
             "kategori": "Spor",
@@ -217,7 +118,7 @@
             "group": "21:45"
         },
         {
-            "id": 25,
+            "id": 14,
             "isim": "Villarreal  - Athletic Bilbao",
             "link": "https://aged-fire-dd6b.sivilcecikti.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
