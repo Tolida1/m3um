@@ -2,6 +2,15 @@
     "ormoxChnlx": [
         {
             "id": 1,
+            "isim": "Kasımpaşa  - Beşiktaş",
+            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:59"
+        },
+        {
+            "id": 2,
             "isim": "Göztepe  - Gaziantep FK",
             "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
             "kategori": "Spor",
@@ -10,18 +19,9 @@
             "group": "20:00"
         },
         {
-            "id": 2,
-            "isim": "Kasımpaşa  - Beşiktaş",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
             "id": 3,
-            "isim": "Banik Ostrava II  - SK Sigma Olomouc II",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855189__1__mediaplaylist.m3u8?s=3845692035c11536e0a63f8c052ef65e3b4d79502eaa0907284c2e888b03630e&t=1744043888744&ai=3&av=1025&ui=0&videoid=15855189",
+            "isim": "Banfield (Bayanlar)  - San Luis FC (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855220__1__mediaplaylist.m3u8?s=a2dd36acf7abcd48d069b90f664efe3f0aec88b5de0f53b1d6d1ec541b5cb352&t=1744045090799&ai=3&av=1025&ui=0&videoid=15855220",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -29,26 +29,26 @@
         },
         {
             "id": 4,
-            "isim": "Banfield (Bayanlar)  - San Luis FC (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855220__1__mediaplaylist.m3u8?s=c08ff542fa232201dcd080ead24f5d30d5dc62644934884f8affcda31b7e64dc&t=1744043889874&ai=3&av=1025&ui=0&videoid=15855220",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 5,
             "isim": "Al Sadd U21  - Al Rayyan U21",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855740__1__mediaplaylist.m3u8?s=157492f8d1faf62bf7f9963b0b83f231bc1be0e26e1a92682a4d1284b9afaac7&t=1744043890157&ai=3&av=1025&ui=0&videoid=15855740",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855740__1__mediaplaylist.m3u8?s=c330d635641849ebd3b9d4df65b805b20369b9c25a7c78a43aec9d37b84560d0&t=1744045091080&ai=3&av=1025&ui=0&videoid=15855740",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "18:30"
         },
         {
-            "id": 6,
+            "id": 5,
             "isim": "FC Omonia Aradippou  - Nea Salamis Famagusta FC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855652__1__mediaplaylist.m3u8?s=826e21bc3bf9e6a7d740195850a816a91b41f84f734a5fa63719b25ecfccc881&t=1744043888454&ai=3&av=1025&ui=0&videoid=15855652",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855652__1__mediaplaylist.m3u8?s=8d16f59a940dca049d829ae3448b4a583592eeef5479d609b2c82e321fa7e151&t=1744045089677&ai=3&av=1025&ui=0&videoid=15855652",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 6,
+            "isim": "Hidd SCC  - Umm Al Hassam",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855635__1__mediaplaylist.m3u8?s=89b222dee1a4ad715c1f5a38471bb434092114e79cbc02ae179d9e721970ffae&t=1744045089956&ai=3&av=1025&ui=0&videoid=15855635",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -56,8 +56,8 @@
         },
         {
             "id": 7,
-            "isim": "Hidd SCC  - Umm Al Hassam",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855635__1__mediaplaylist.m3u8?s=2ba66f7720d0349f1be0315647990e114939e173687b53673f5ba7e05473439c&t=1744043889025&ai=3&av=1025&ui=0&videoid=15855635",
+            "isim": "Isa Town FC  - Etehad Al Reef",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855633__1__mediaplaylist.m3u8?s=99e34411e7de5448a735288fd2117431b58064a0979e062b633b94fbc4d860f9&t=1744045090228&ai=3&av=1025&ui=0&videoid=15855633",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -65,8 +65,8 @@
         },
         {
             "id": 8,
-            "isim": "Isa Town FC  - Etehad Al Reef",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855633__1__mediaplaylist.m3u8?s=58b91ed0ce313cdaad9e35e42abd0791476d7a43462204d8ed9a60cc3b8cc9ed&t=1744043889301&ai=3&av=1025&ui=0&videoid=15855633",
+            "isim": "Vag  - Sandnes Ulf II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855746__1__mediaplaylist.m3u8?s=200e9802d1062c94d46e524e0799af50d2699ce9cdd1a4a7e691ceef0cc514db&t=1744045090515&ai=3&av=1025&ui=0&videoid=15855746",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -74,24 +74,15 @@
         },
         {
             "id": 9,
-            "isim": "Vag  - Sandnes Ulf II",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855746__1__mediaplaylist.m3u8?s=45a91c496d380627a6dbafaf5b5b838c95ca49cefba35790882da7ec50efe806&t=1744043889584&ai=3&av=1025&ui=0&videoid=15855746",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 10,
             "isim": "26ers  - FC Rules the World",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855844__1__mediaplaylist.m3u8?s=4bcf77bc43ec33558701c56a4dc56d86aa664f0fbbc184f483d442faab44fb6c&t=1744043890446&ai=3&av=1025&ui=0&videoid=15855844",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855844__1__mediaplaylist.m3u8?s=b82a60555a43bf0c854c5fbb3436dfc98b029a46a6a0e35313df24795084ba21&t=1744045091364&ai=3&av=1025&ui=0&videoid=15855844",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "19:30"
         },
         {
-            "id": 11,
+            "id": 10,
             "isim": "Dunkerque  - Guingamp",
             "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
             "kategori": "Spor",
@@ -100,7 +91,7 @@
             "group": "21:45"
         },
         {
-            "id": 12,
+            "id": 11,
             "isim": "Leicester City  - Newcastle United",
             "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
@@ -109,7 +100,7 @@
             "group": "22:00"
         },
         {
-            "id": 13,
+            "id": 12,
             "isim": "Leganes  - Osasuna",
             "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
