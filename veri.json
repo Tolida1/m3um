@@ -2,111 +2,84 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Kasımpaşa  - Beşiktaş",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:59"
-        },
-        {
-            "id": 2,
-            "isim": "Göztepe  - Gaziantep FK",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 3,
-            "isim": "Banfield (Bayanlar)  - San Luis FC (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855220__1__mediaplaylist.m3u8?s=a2dd36acf7abcd48d069b90f664efe3f0aec88b5de0f53b1d6d1ec541b5cb352&t=1744045090799&ai=3&av=1025&ui=0&videoid=15855220",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 4,
-            "isim": "Al Sadd U21  - Al Rayyan U21",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855740__1__mediaplaylist.m3u8?s=c330d635641849ebd3b9d4df65b805b20369b9c25a7c78a43aec9d37b84560d0&t=1744045091080&ai=3&av=1025&ui=0&videoid=15855740",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:30"
-        },
-        {
-            "id": 5,
-            "isim": "FC Omonia Aradippou  - Nea Salamis Famagusta FC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855652__1__mediaplaylist.m3u8?s=8d16f59a940dca049d829ae3448b4a583592eeef5479d609b2c82e321fa7e151&t=1744045089677&ai=3&av=1025&ui=0&videoid=15855652",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 6,
-            "isim": "Hidd SCC  - Umm Al Hassam",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855635__1__mediaplaylist.m3u8?s=89b222dee1a4ad715c1f5a38471bb434092114e79cbc02ae179d9e721970ffae&t=1744045089956&ai=3&av=1025&ui=0&videoid=15855635",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 7,
-            "isim": "Isa Town FC  - Etehad Al Reef",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855633__1__mediaplaylist.m3u8?s=99e34411e7de5448a735288fd2117431b58064a0979e062b633b94fbc4d860f9&t=1744045090228&ai=3&av=1025&ui=0&videoid=15855633",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 8,
-            "isim": "Vag  - Sandnes Ulf II",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855746__1__mediaplaylist.m3u8?s=200e9802d1062c94d46e524e0799af50d2699ce9cdd1a4a7e691ceef0cc514db&t=1744045090515&ai=3&av=1025&ui=0&videoid=15855746",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 9,
-            "isim": "26ers  - FC Rules the World",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855844__1__mediaplaylist.m3u8?s=b82a60555a43bf0c854c5fbb3436dfc98b029a46a6a0e35313df24795084ba21&t=1744045091364&ai=3&av=1025&ui=0&videoid=15855844",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:30"
-        },
-        {
-            "id": 10,
-            "isim": "Dunkerque  - Guingamp",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
+            "isim": "Bologna  - Napoli",
+            "link": "https://aged-fire-dd6b.cakmicamtm.workers.dev/https://fener2.demoscript.buzz/hls/s-sport-2.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "21:45"
         },
         {
-            "id": 11,
+            "id": 2,
             "isim": "Leicester City  - Newcastle United",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
+            "link": "https://aged-fire-dd6b.cakmicamtm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "22:00"
         },
         {
-            "id": 12,
+            "id": 3,
             "isim": "Leganes  - Osasuna",
-            "link": "https://aged-fire-dd6b.cakargecerimm.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
+            "link": "https://aged-fire-dd6b.cakmicamtm.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "22:00"
+        },
+        {
+            "id": 4,
+            "isim": "Club Atlético General Lamadrid  - Club Atlético Argentino Rosario",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15856485__1__mediaplaylist.m3u8?s=26436a32e68f39c62ed521237f677af13e1b53b1eb3ac9245e55f7be9bb49aa0&t=1744053488124&ai=3&av=1025&ui=0&videoid=15856485",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:05"
+        },
+        {
+            "id": 5,
+            "isim": "Sportivo Dock Sud  - Club Atlético Acassuso",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15856635__1__mediaplaylist.m3u8?s=4be9912d670de2edb7bad502cdc4317dbe1d3f4c16703137414c761bd9269631&t=1744053487834&ai=3&av=1025&ui=0&videoid=15856635",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:30"
+        },
+        {
+            "id": 6,
+            "isim": "Club Sportivo Barracas  - CA Atlas",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15856691__1__mediaplaylist.m3u8?s=4b8bb1b1a20d1eaa5a0bf2a464b00471c1736655e611fc2a1387e60f7ec5247b&t=1744053488420&ai=3&av=1025&ui=0&videoid=15856691",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:30"
+        },
+        {
+            "id": 7,
+            "isim": "CSR Espanol  - Atletico Camioneros",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15856692__1__mediaplaylist.m3u8?s=0a217faf3c475d3f5230174f57688cb791f550582df74bff59f928ede809757b&t=1744053488696&ai=3&av=1025&ui=0&videoid=15856692",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:30"
+        },
+        {
+            "id": 8,
+            "isim": "Dunkerque  - Guingamp",
+            "link": "https://aged-fire-dd6b.cakmicamtm.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:45"
+        },
+        {
+            "id": 9,
+            "isim": "M7 FC  - Deportrio",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15856963__1__mediaplaylist.m3u8?s=36b6fd62549d226ee86d979227f250b642d8ffb079ed4605a8c1e0d0d8935148&t=1744053488984&ai=3&av=1025&ui=0&videoid=15856963",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "22:15"
         }
     ]
 }
