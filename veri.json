@@ -2,7 +2,70 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Marsilya  - Toulouse",
+            "isim": "Belen Arco Zaragoza  - Lula",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15854967__1__mediaplaylist.m3u8?s=455e5fa86bf8ebae78dad82841af39adfb3566100c76fd78a3b905332e1b6c69&t=1744040889982&ai=3&av=1025&ui=0&videoid=15854967",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "16:45"
+        },
+        {
+            "id": 2,
+            "isim": "Araz-Naxcıvan  - Sumqayit",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15854763__1__mediaplaylist.m3u8?s=06deea4cb31c1aeebfab539ce72db867d2d1f9b2de17ea591792ebb06d821aa5&t=1744040889430&ai=3&av=1025&ui=0&videoid=15854763",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "17:00"
+        },
+        {
+            "id": 3,
+            "isim": "Atletico Del Vedado  - Santa Felicia",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855334__1__mediaplaylist.m3u8?s=d673f942c10213237743e65d2db34d433d3479b60d08adaf2f3a32e74c765f4e&t=1744040890545&ai=3&av=1025&ui=0&videoid=15855334",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "17:53"
+        },
+        {
+            "id": 4,
+            "isim": "Banik Ostrava II  - SK Sigma Olomouc II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855189__1__mediaplaylist.m3u8?s=9645fd1e3fde5962e92c330ac06f5434395f23a178e4df975a185a7620002b64&t=1744040889704&ai=3&av=1025&ui=0&videoid=15855189",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 5,
+            "isim": "Banfield (Bayanlar)  - San Luis FC (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15855220__1__mediaplaylist.m3u8?s=2204efbc28f14a01e825366d06f3fddfc855daed8b67c6b7adf7238fc508f763&t=1744040890259&ai=3&av=1025&ui=0&videoid=15855220",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 6,
+            "isim": "Göztepe  - Gaziantep FK",
+            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "20:00"
+        },
+        {
+            "id": 7,
+            "isim": "Kasımpaşa  - Beşiktaş",
+            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "20:00"
+        },
+        {
+            "id": 8,
+            "isim": "Dunkerque  - Guingamp",
             "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
             "kategori": "Spor",
             "player": "HLS",
@@ -10,166 +73,22 @@
             "group": "21:45"
         },
         {
-            "id": 2,
-            "isim": "Villarreal  - Athletic Bilbao",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
+            "id": 9,
+            "isim": "Leicester City  - Newcastle United",
+            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "22:00"
         },
         {
-            "id": 3,
-            "isim": "Flamengo+  - Gremio+",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15851453__1__mediaplaylist.m3u8?s=315b27ccc7a3ee0ffe2437b198ad66b314f624a3db998ba785c8dd8c5ae22531&t=1744006087826&ai=3&av=1025&ui=0&videoid=15851453",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "08:46"
-        },
-        {
-            "id": 4,
-            "isim": "Independente Candomble Bantu  - Herois do Huambo",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15851436__1__mediaplaylist.m3u8?s=506c247ddc3eca602295addc990d45279172debe6d9b1bd07661b2964f67d37d&t=1744006087560&ai=3&av=1025&ui=0&videoid=15851436",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "08:50"
-        },
-        {
-            "id": 5,
-            "isim": "Valladolid+  - Burgas+",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15851487__1__mediaplaylist.m3u8?s=93ae3265939eceaefcb4a2ccf175f844c0adc68155ef82943e614c33bc14366c&t=1744006088435&ai=3&av=1025&ui=0&videoid=15851487",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "08:53"
-        },
-        {
-            "id": 6,
-            "isim": "Malaga+  - Hamburg+",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15851504__1__mediaplaylist.m3u8?s=a4ab1d827b42ebc6b741cadc47cc7523d747b13e5119ada930d3d74f55582fbc&t=1744006088730&ai=3&av=1025&ui=0&videoid=15851504",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "08:56"
-        },
-        {
-            "id": 7,
-            "isim": "Santiago+  - River+",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15851566__1__mediaplaylist.m3u8?s=9fda9fe97af5679b874052c1e9fd79a25d2539b49253691ee2c40922e1a20f50&t=1744006088153&ai=3&av=1025&ui=0&videoid=15851566",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "09:05"
-        },
-        {
-            "id": 8,
-            "isim": "Alanyaspor  - Bodrum FK",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "13:30"
-        },
-        {
-            "id": 9,
-            "isim": "Las Palmas  - Real Sociedad",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "15:00"
-        },
-        {
             "id": 10,
-            "isim": "Hatayspor  - Eyüpspor",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 11,
-            "isim": "Brentford  - Chelsea",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 12,
-            "isim": "Fulham  - Liverpool",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 13,
-            "isim": "Sevilla  - Atletico Madrid",
+            "isim": "Leganes  - Osasuna",
             "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "17:15"
-        },
-        {
-            "id": 14,
-            "isim": "Union Berlin  - Wolfsburg",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:30"
-        },
-        {
-            "id": 15,
-            "isim": "Manchester United  - Manchester City",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:30"
-        },
-        {
-            "id": 16,
-            "isim": "MKE Ankaragücü  - Gençlerbirliği",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 17,
-            "isim": "Fenerbahçe  - Trabzonspor",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:00"
-        },
-        {
-            "id": 18,
-            "isim": "Valladolid  - Getafe",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:30"
-        },
-        {
-            "id": 19,
-            "isim": "Lanus  - Independiente",
-            "link": "https://steep-silence-b428.tselenirknk.workers.dev/https://fener2.demoscript.buzz/hls/spor-smart-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:30"
+            "group": "22:00"
         }
     ]
 }
