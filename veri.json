@@ -2,111 +2,93 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Al Jubail Klübu  - Jeddah Club",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864374__1__mediaplaylist.m3u8?s=e8c33a205e9337fa42021b4f2671d54733a89e0a78224697d55648ae338e7301&t=1744133288108&ai=3&av=1025&ui=0&videoid=15864374",
+            "isim": "Tabii Spor",
+            "link": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:40"
+            "group": "Spor"
         },
         {
             "id": 2,
-            "isim": "Al-Batin  - Neom SC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864430__1__mediaplaylist.m3u8?s=c229c40628ab4a02b3fa6be24e573437431cd37bda20f63ff9771cfadc5cb27a&t=1744133288392&ai=3&av=1025&ui=0&videoid=15864430",
+            "isim": "Tabii Spor 1",
+            "link": "https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:55"
+            "group": "Spor"
         },
         {
             "id": 3,
-            "isim": "Al-Shorta Baghdad  - Naft Al-Basra",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864478__1__mediaplaylist.m3u8?s=4070cd54a6dae9816732dd702bda3b2624bc2167e03b111c542108e27fff7fa6&t=1744133288665&ai=3&av=1025&ui=0&videoid=15864478",
+            "isim": "Tabii Spor 2",
+            "link": "https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "Spor"
         },
         {
             "id": 4,
-            "isim": "Türkiye (Bayanlar)  - Slovenya (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864407__1__mediaplaylist.m3u8?s=ac8ce39a119034c70025c81fadc1ecb053ac47a1597a8b26062d2f7dab53c71b&t=1744133289236&ai=3&av=1025&ui=0&videoid=15864407",
+            "isim": "Tabii Spor 3",
+            "link": "https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "Spor"
         },
         {
             "id": 5,
-            "isim": "Danimarka (Bayanlar)  - İtalya (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864406__1__mediaplaylist.m3u8?s=2632c462dac15a349dcf28c58c98ee63830b01c6fcab36435a3e1fa41a8d0934&t=1744133289546&ai=3&av=1025&ui=0&videoid=15864406",
+            "isim": "Tabii Spor 4",
+            "link": "https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "Spor"
         },
         {
             "id": 6,
-            "isim": "Baalor Sarr  - Wallidan",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864521__1__mediaplaylist.m3u8?s=926941c94ea06fd87c44422ec5cb255c773b8ec1586ceca90bd5122af2714fc5&t=1744133290717&ai=3&av=1025&ui=0&videoid=15864521",
+            "isim": "Tabii Spor 5",
+            "link": "https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "Spor"
         },
         {
             "id": 7,
-            "isim": "Al-Sareeh SC  - Al-Wehdat SC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864700__1__mediaplaylist.m3u8?s=0ad8672f9847ef842188e742c46781e223b71df65ed8e9393c8adaedf7d3ac7e&t=1744133288945&ai=3&av=1025&ui=0&videoid=15864700",
+            "isim": "Tabii Spor 6",
+            "link": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:45"
+            "group": "Spor"
         },
         {
             "id": 8,
-            "isim": "İzlanda (Bayanlar)  - İsviçre (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864701__1__mediaplaylist.m3u8?s=74aae1d9407968d2b6cc3bb23ae6381c91970132ab120f1c9146d2580bf1ae4d&t=1744133290144&ai=3&av=1025&ui=0&videoid=15864701",
+            "isim": "Trt 1",
+            "link": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:45"
+            "group": "Spor"
         },
         {
             "id": 9,
-            "isim": "Manisa FK  - Amed SK",
-            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
+            "isim": "Trt Spor",
+            "link": "https://trt.daioncdn.net/trtspor/master.m3u8?app=clean",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
+            "group": "Spor"
         },
         {
             "id": 10,
-            "isim": "İspanya (Bayanlar)  - Portekiz (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15865034__1__mediaplaylist.m3u8?s=a255a8c96919de565b19854636e3a22bba708e7141b13d1245476c28ea85e3f1&t=1744133289839&ai=3&av=1025&ui=0&videoid=15865034",
+            "isim": "Trt Spor Yıldız",
+            "link": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 11,
-            "isim": "Norveç (Bayanlar)  - Fransa (Bayanlar)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15864980__1__mediaplaylist.m3u8?s=be4516230cd2d0596a1e6ac557824ad28e408b805bda87bba67e12ce8e2f85dd&t=1744133290420&ai=3&av=1025&ui=0&videoid=15864980",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 12,
-            "isim": "Al Taawon  - Al Sharjah",
-            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/spor-smart-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:00"
+            "group": "Spor"
         }
     ]
 }
