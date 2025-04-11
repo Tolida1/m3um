@@ -2,143 +2,143 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Maccabi Herzliya - Hapoel Ramat Gan",
-            "link": "https://cdn.quertinoxer.xyz/v/267005577622851584/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Lyon  - Manchester United",
+            "link": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:00"
+            "group": "22:00"
         },
         {
             "id": 2,
-            "isim": "Fc Alga - Fc Alay",
-            "link": "https://cdn.quertinoxer.xyz/v/267216773649141760/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Rangers  - Athletic Bilbao",
+            "link": "https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "15:15"
+            "group": "22:00"
         },
         {
             "id": 3,
-            "isim": "FK Mash'al Mubarek - Neftchi Fargona",
-            "link": "https://cdn.quertinoxer.xyz/v/266800962202636288/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Tottenham  - Eintracht Frankurt",
+            "link": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:00"
+            "group": "22:00"
         },
         {
             "id": 4,
-            "isim": "Hapoel Tel-Aviv - Hapoel Petah Tikva",
-            "link": "https://cdn.quertinoxer.xyz/v/267115508118196224/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Celje  - Fiorentina",
+            "link": "https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_720p.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:00"
+            "group": "22:00"
         },
         {
             "id": 5,
-            "isim": "ACS Medias 2022 - ACS Gloria Bistrita",
-            "link": "https://cdn.quertinoxer.xyz/v/267131100320632832/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 6,
-            "isim": "Lotus Baile Felix - ACS Viitorul Arad",
-            "link": "https://cdn.quertinoxer.xyz/v/267155476459950080/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 7,
-            "isim": "Ghiroda SI Giarmata VII - SSU Politehnica Timisoara",
-            "link": "https://cdn.quertinoxer.xyz/v/267137954043006976/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 8,
-            "isim": "Addis Ababa Ketema - Injibara Ketema",
-            "link": "https://cdn.quertinoxer.xyz/v/267203507552129024/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Miedz Legnica II  - Odra Bytom Odrzanski",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890425__1__mediaplaylist.m3u8?s=31a40f4e889ebecc7fd1473d0d604dca1b900aa4b77d9439c5256aabfa7da03c&t=1744382292468&ai=3&av=1025&ui=0&videoid=15890425",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "16:00"
         },
         {
-            "id": 9,
-            "isim": "El Madina El Monowara - Asyut Cement Petroleum",
-            "link": "https://cdn.quertinoxer.xyz/v/267147074730070016/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "id": 6,
+            "isim": "Gabala  - Agsu",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890294__1__mediaplaylist.m3u8?s=33336d2e955799f1ca1b8c86dd09657544a5a7c890e1b747899f0e7a085f5fdb&t=1744382292168&ai=3&av=1025&ui=0&videoid=15890294",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "16:00"
+        },
+        {
+            "id": 7,
+            "isim": "Vityaz Podolsk (Gençler)  - Strogino (Gençler)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890298__1__mediaplaylist.m3u8?s=483b37cc0591644ce09a6bc9c553513b8118d8564da42ef6b2f45f241b2cb962&t=1744382291879&ai=3&av=1025&ui=0&videoid=15890298",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "16:00"
+        },
+        {
+            "id": 8,
+            "isim": "Al Madina Al Monawara  - Asmant Asyut",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890581__1__mediaplaylist.m3u8?s=923242c41066f59d2659b4cae825ba0bf4c3bb0694d4965eeb393ec3d6a3e90a&t=1744382290527&ai=3&av=1025&ui=0&videoid=15890581",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "16:30"
         },
         {
-            "id": 10,
-            "isim": "Rosario Central (W) - Boca Juniors (W)",
-            "link": "https://cdn.quertinoxer.xyz/v/267150723140161536/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 11,
-            "isim": "Shabab AL Ordun - Moghayer Al Sarhan II",
-            "link": "https://cdn.quertinoxer.xyz/v/267043546032377856/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 12,
-            "isim": "NK Jarun Zagreb - Vukovar 1991",
-            "link": "https://cdn.quertinoxer.xyz/v/267043546133041152/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:50"
-        },
-        {
-            "id": 13,
-            "isim": "Al Jazira Hamra - Emirates Club Ras Al Khaimah",
-            "link": "https://cdn.quertinoxer.xyz/v/267017079488647168/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "id": 9,
+            "isim": "Al Hamriah  - United FC",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890706__1__mediaplaylist.m3u8?s=e85d91bc493ef1856a1490cb9acae1c6c4726e359e264d183345f89b918a80a4&t=1744382288397&ai=3&av=1025&ui=0&videoid=15890706",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "16:55"
         },
         {
-            "id": 14,
-            "isim": "Karvan Yevlakh - Mil-Mugan Imisli         FK",
-            "link": "https://cdn.quertinoxer.xyz/v/267200533675249664/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "id": 10,
+            "isim": "Al Jazira Al Hamra  - Emirates Cultural Sport Club",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890705__1__mediaplaylist.m3u8?s=279d809fe29f7b27eaeff8472729aa1f5316ba3a5fb2319c9e96d7f5bf25c3a0&t=1744382288669&ai=3&av=1025&ui=0&videoid=15890705",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "15:30"
+            "group": "16:55"
+        },
+        {
+            "id": 11,
+            "isim": "Dibba Al-Fujairah  - Masfut",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890840__1__mediaplaylist.m3u8?s=4a4e28e3164ebf48c8cee93621c95ca515b44565688d124bb7f4a01a9ce97e63&t=1744382288937&ai=3&av=1025&ui=0&videoid=15890840",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "16:55"
+        },
+        {
+            "id": 12,
+            "isim": "Fraficar Beograd  - OFK Vrsac",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890606__1__mediaplaylist.m3u8?s=bcf96161d5446c3a5aab673cee4c2933d4f2ef94039b24d853b528ee9fa773c7&t=1744382289739&ai=3&av=1025&ui=0&videoid=15890606",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "17:00"
+        },
+        {
+            "id": 13,
+            "isim": "Kirovets Voshozhdenie (Gençler)  - Chayka Peschanokopskoye (Gençler)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890696__1__mediaplaylist.m3u8?s=dacea6725a9d061205270bf903e3c622c8168bc001f7c289ec69bc173790018f&t=1744382291594&ai=3&av=1025&ui=0&videoid=15890696",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "17:00"
+        },
+        {
+            "id": 14,
+            "isim": "Medias  - CS Gloria 2018 Bistrita-Nasaud",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890671__1__mediaplaylist.m3u8?s=609ee8fc1d5288bff288d67e722fc7d59c7253532f3ea5b6ba3a735a31e8a45d&t=1744382291298&ai=3&av=1025&ui=0&videoid=15890671",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "17:00"
         },
         {
             "id": 15,
-            "isim": "Gol Gohar - Aluminium Arak",
-            "link": "https://cdn.quertinoxer.xyz/v/266965480060882944/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Ghiroda  - SSU Politehnica Timisoara",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890639__1__mediaplaylist.m3u8?s=bfce1e9c63787b650fff368b112542d044dc2b73882a6756248bff51b4cd0a2b&t=1744382291039&ai=3&av=1025&ui=0&videoid=15890639",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:30"
+            "group": "17:00"
         },
         {
             "id": 16,
-            "isim": "FK Graficar Beograd - OFK Vrsac II",
-            "link": "https://cdn.quertinoxer.xyz/v/267118867401281536/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "FC Cluj Sanatatya  - Viitorul Cluj",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890709__1__mediaplaylist.m3u8?s=c2fd97c87fe650785c2781bea81942a4b9e9e4a2efbc5054e0d4aff3f5dd1eee&t=1744382290774&ai=3&av=1025&ui=0&videoid=15890709",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -146,246 +146,84 @@
         },
         {
             "id": 17,
-            "isim": "Al Hamriyah - Dubai United FC",
-            "link": "https://cdn.quertinoxer.xyz/v/267017394106535936/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Shabab Al Ordon Al Quadisiya  - Moghayer Al Sarhan",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890628__1__mediaplaylist.m3u8?s=3fa9a673ef72f82f8d2c068d5697f715688064dd022e10f7af77de609488e9a6&t=1744382289463&ai=3&av=1025&ui=0&videoid=15890628",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:55"
+            "group": "17:00"
         },
         {
             "id": 18,
-            "isim": "Dibba AL Fujairah - Masfout Club",
-            "link": "https://cdn.quertinoxer.xyz/v/267129413970300928/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "FC Rostov (Gençler)  - FC Lokomotiv Moskova (Gençler)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890627__1__mediaplaylist.m3u8?s=6049db7afd81de8b314ede906dbae0ae83e11e20969a1196f563797faee9dbea&t=1744382289199&ai=3&av=1025&ui=0&videoid=15890627",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:55"
+            "group": "17:00"
         },
         {
             "id": 19,
-            "isim": "Shams Azar Qazvin - Zob Ahan",
-            "link": "https://cdn.quertinoxer.xyz/v/266965480218169344/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "FC Ural Sverdlovsk Bölgesi  - FC Neftekhimik Nizhnekamsk",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890613__1__mediaplaylist.m3u8?s=87ebb58480210eee8f807b922d2fa5c04955e51967daeec36fa10b87b0ab1bf1&t=1744382288141&ai=3&av=1025&ui=0&videoid=15890613",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "16:30"
+            "group": "17:00"
         },
         {
             "id": 20,
-            "isim": "FC Masr (ZED) - El Gouna FC",
-            "link": "https://cdn.quertinoxer.xyz/v/266595720077905920/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 21,
-            "isim": "Hapoel Kfar-Saba - Hapoel Kfar Shelem",
-            "link": "https://cdn.quertinoxer.xyz/v/266957461584482304/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 22,
-            "isim": "Sleza Wroclaw - KS Gornik Zabrze II II",
-            "link": "https://cdn.quertinoxer.xyz/v/266886197081673728/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:30"
-        },
-        {
-            "id": 23,
-            "isim": "Ajman - Al Jazira",
-            "link": "https://cdn.quertinoxer.xyz/v/267043545961074688/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:55"
-        },
-        {
-            "id": 24,
-            "isim": "Baniyas FC - Dibba Al-Hisn",
-            "link": "https://cdn.quertinoxer.xyz/v/266961638862753792/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:55"
-        },
-        {
-            "id": 25,
-            "isim": "FC Ural Yekaterinburg - Neftekhimik Nizhnekamsk",
-            "link": "https://cdn.quertinoxer.xyz/v/266790806972665856/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:00"
-        },
-        {
-            "id": 26,
-            "isim": "Miedz Legnica ll - Odra Bytom Odrzanski II",
-            "link": "https://cdn.quertinoxer.xyz/v/266886059555688448/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 27,
-            "isim": "FK Gabala - Difai Agsu II",
-            "link": "https://cdn.quertinoxer.xyz/v/267215770119966720/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:00"
-        },
-        {
-            "id": 28,
-            "isim": "Pfc Spartak Varna - Levski Krumovgrad",
-            "link": "https://cdn.quertinoxer.xyz/v/266611861501382656/index.css?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "16:30"
-        },
-        {
-            "id": 29,
-            "isim": "ZED - El Gouna FC",
-            "link": "https://casimontratv6.com/y/rapsody/15890562.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:21"
-        },
-        {
-            "id": 30,
-            "isim": "FC Ural Sverdlovsk Bölgesi - FC Neftekhimik Nizhnekamsk",
-            "link": "https://casimontratv6.com/y/rapsody/15890613.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:42"
-        },
-        {
-            "id": 31,
-            "isim": "FC Rostov (Gençler) - FC Lokomotiv Moskova (Gençler)",
-            "link": "https://casimontratv6.com/y/rapsody/15890627.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:10"
-        },
-        {
-            "id": 32,
-            "isim": "Shabab Al Ordon Al Quadisiya - Moghayer Al Sarhan",
-            "link": "https://casimontratv6.com/y/rapsody/15890628.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:55"
-        },
-        {
-            "id": 33,
-            "isim": "Fraficar Beograd - OFK Vrsac",
-            "link": "https://casimontratv6.com/y/rapsody/15890606.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:29"
-        },
-        {
-            "id": 34,
-            "isim": "Al Madina Al Monawara - Asmant Asyut",
-            "link": "https://casimontratv6.com/y/rapsody/15890581.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:11"
-        },
-        {
-            "id": 35,
-            "isim": "Vityaz Podolsk (Gençler) - Strogino (Gençler)",
-            "link": "https://casimontratv6.com/y/rapsody/15890298.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:43"
-        },
-        {
-            "id": 36,
-            "isim": "Gabala - Agsu",
-            "link": "https://casimontratv6.com/y/rapsody/15890294.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:57"
-        },
-        {
-            "id": 37,
-            "isim": "Karvan FK - İmisli",
-            "link": "https://casimontratv6.com/y/rapsody/15890059.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:23"
-        },
-        {
-            "id": 38,
-            "isim": "Alga Bişkek - Alay",
-            "link": "https://casimontratv6.com/y/rapsody/15889906.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:44"
-        },
-        {
-            "id": 39,
-            "isim": "Miedz Legnica II - Odra Bytom Odrzanski",
-            "link": "https://casimontratv6.com/y/rapsody/15890425.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:14"
-        },
-        {
-            "id": 40,
-            "isim": "Ślęza Wrocław - Górnik Zabrze II",
-            "link": "https://casimontratv6.com/y/rapsody/15890429.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:53"
-        },
-        {
-            "id": 41,
-            "isim": "Kathmandu Rayzrs - Dhangadhi",
-            "link": "https://casimontratv6.com/y/rapsody/15890015.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "17:14"
-        },
-        {
-            "id": 42,
-            "isim": "Juventus (Alpaka) - Lombardia FC (Cesar)",
-            "link": "https://casimontratv6.com/y/rapsody/15890587.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "isim": "Radomlje U19  - NK Brinje Grosuplje U19",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890765__1__mediaplaylist.m3u8?s=ff00c66979786518f7ac0075296ca425a0f63d4a2788a2aa2959be6d78ee0c7b&t=1744382290266&ai=3&av=1025&ui=0&videoid=15890765",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "17:15"
         },
         {
-            "id": 43,
-            "isim": "Tottenham Hotspur (Toney_5392) - Atletico de Madrid (Vlahovic_6789)",
-            "link": "https://casimontratv6.com/y/rapsody/15890419.m3u8?token=cbdf8d430a3ecefa76034db3fb159d279ccfe8de-5a596b5878fe952dbbaf40681bdd31a3-1740704107-1740693307&remote=2a02:4e0:2d89:2317:4593:450e:f40e:844b",
+            "id": 21,
+            "isim": "SK Uničov  - FC Zlinsko",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890880__1__mediaplaylist.m3u8?s=e3bf7bf6d0118d2a5b1cf05b9f3b7deef72be264f9efde8682b2a9d34986cac6&t=1744382290008&ai=3&av=1025&ui=0&videoid=15890880",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "17:56"
+            "group": "17:30"
+        },
+        {
+            "id": 22,
+            "isim": "Hamburg  - Braunschweig",
+            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:30"
+        },
+        {
+            "id": 23,
+            "isim": "Samsunspor  - Galatasaray",
+            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "20:00"
+        },
+        {
+            "id": 24,
+            "isim": "Wolfsburg  - RB Leipzig",
+            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:30"
+        },
+        {
+            "id": 25,
+            "isim": "Lens  - Reims",
+            "link": "https://steep-silence-b428.yedektedurknk.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-5.m3u8",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:45"
         }
     ]
 }
