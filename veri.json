@@ -2,80 +2,80 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Radomlje U19  - NK Brinje Grosuplje U19",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890765__1__mediaplaylist.m3u8?s=f15b1ba9a33853cb96e8583bf8bf7246c8665782131800ad29229eff979657f0&t=1744387694191&ai=3&av=1025&ui=0&videoid=15890765",
+            "isim": "ASO Chlef  - ES Sétif",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891065__1__mediaplaylist.m3u8?s=42b2429e10170390bb780cf8f3a32a6955c21a84491bd6b9c7fcf6760b5cbd53&t=1744388893390&ai=3&av=1025&ui=0&videoid=15891065",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "17:15"
+            "group": "18:00"
         },
         {
             "id": 2,
-            "isim": "NK Mladost Zdralovi  - NK Grobnican",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890739__1__mediaplaylist.m3u8?s=bc270f2ae96437df68ccf1aaf4bfdfbc5d90c26fab430b3476e8214fdcc03b97&t=1744387693931&ai=3&av=1025&ui=0&videoid=15890739",
+            "isim": "FC Vitebsk  - Isloch",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891073__1__mediaplaylist.m3u8?s=a04da922354a7b49ae5b18260efa1685681d07ddedd5b3e30797b2bbd544ef11&t=1744388890466&ai=3&av=1025&ui=0&videoid=15891073",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "17:30"
+            "group": "18:00"
         },
         {
             "id": 3,
-            "isim": "SK Uničov  - FC Zlinsko",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15890880__1__mediaplaylist.m3u8?s=7fcbae3d2e0d0e219c2b72a9bb469a3dbfe22742544bd096858ee104395f0f35&t=1744387693694&ai=3&av=1025&ui=0&videoid=15890880",
+            "isim": "Sabail  - Qarabag",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891008__1__mediaplaylist.m3u8?s=33d7258905b76e414fe97910c193cf298fc97a5011234c868577af2981374ed3&t=1744388891042&ai=3&av=1025&ui=0&videoid=15891008",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "17:30"
+            "group": "18:00"
         },
         {
             "id": 4,
-            "isim": "Chertanovo (Gençler)  - Chornomorets Novorossiysk (Gençler)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891083__1__mediaplaylist.m3u8?s=850a919d5c3370b8f5781ea2660f269e7ba8406d3ce83453bf558c621a01675b&t=1744387694430&ai=3&av=1025&ui=0&videoid=15891083",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 5,
-            "isim": "FC Vitebsk  - Isloch",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891073__1__mediaplaylist.m3u8?s=40f03a5f2befa8aacc2396f3bf4506e1fba48a5215b69bcc6395754afd11aaf6&t=1744387689402&ai=3&av=1025&ui=0&videoid=15891073",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 6,
-            "isim": "Sabail  - Qarabag",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891008__1__mediaplaylist.m3u8?s=fb66d744d15d4fec19bf7212b6e26dade0654cf3588e44147103a8a17c0caf77&t=1744387689921&ai=3&av=1025&ui=0&videoid=15891008",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 7,
-            "isim": "ASO Chlef  - ES Sétif",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891065__1__mediaplaylist.m3u8?s=ce56a8c8532b6285d6713fa22a9472969d15b5683371e522d8efc21db46be218&t=1744387692287&ai=3&av=1025&ui=0&videoid=15891065",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "18:00"
-        },
-        {
-            "id": 8,
             "isim": "Navbahor Namangan  - FC Shurtan Guzar",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891135__1__mediaplaylist.m3u8?s=ac65b987f9e95fbebb87c5500db724cb11fe3a80b30b1bf30e7452512c8fe32c&t=1744387693448&ai=3&av=1025&ui=0&videoid=15891135",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891135__1__mediaplaylist.m3u8?s=f3611b9945d36ee24ee890357047f5b9e1bdda87ee637c0c9783b331797862a3&t=1744388895017&ai=3&av=1025&ui=0&videoid=15891135",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "18:15"
         },
         {
-            "id": 9,
+            "id": 5,
+            "isim": "Al-Shahaniya Sports Club  - Katar SC",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891299__1__mediaplaylist.m3u8?s=b98b895cf1aed5a15ca2d81228f0646f47c207e88d837454501d57cff91cd270&t=1744388892082&ai=3&av=1025&ui=0&videoid=15891299",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 6,
             "isim": "FC Al Shamal  - Al Rayyan SC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891266__1__mediaplaylist.m3u8?s=d33141791bc5b1a6a37b4b2bb53fd6be024636d3b3fbac736446fc6626ef85bc&t=1744387691496&ai=3&av=1025&ui=0&videoid=15891266",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891266__1__mediaplaylist.m3u8?s=b29352aed01c096b009c3a05e0854ddadcfcdb8f9de09bbf11f098e2c46a2c2f&t=1744388892583&ai=3&av=1025&ui=0&videoid=15891266",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 7,
+            "isim": "Al-Wakrah Sport Club  - Al-Gharafa Sports Club",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891259__1__mediaplaylist.m3u8?s=d456b42e2893caac6c3f958d7b892ff11a1f1032f9961a4a2926b6eef19b3263&t=1744388892337&ai=3&av=1025&ui=0&videoid=15891259",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 8,
+            "isim": "Al-Duhail  - Al-Arabi Doha",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891241__1__mediaplaylist.m3u8?s=b1f1f80dfe486e9213f634bbdced9f92cb1bef19b58e3e085d23dbe9c4d75424&t=1744388891816&ai=3&av=1025&ui=0&videoid=15891241",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 9,
+            "isim": "Al Sadd SC  - Al-Khor Sports Club",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891225__1__mediaplaylist.m3u8?s=dbd42ac50705319224ed74632df7bc48e63c96a0f5d9a2e518996439125ccfeb&t=1744388891573&ai=3&av=1025&ui=0&videoid=15891225",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -83,8 +83,8 @@
         },
         {
             "id": 10,
-            "isim": "Al-Wakrah Sport Club  - Al-Gharafa Sports Club",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891259__1__mediaplaylist.m3u8?s=4a04c8f7b10163e6ec074c5b0a31a86b2d0b79a15054a7693b16b630246ac1f9&t=1744387691242&ai=3&av=1025&ui=0&videoid=15891259",
+            "isim": "Al Ahli Doha  - Umm Salal SC",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891300__1__mediaplaylist.m3u8?s=8981a7ae39d9c122b7952fd214e67f2c869b84cdb4d294b0097f1429a25c0e86&t=1744388891319&ai=3&av=1025&ui=0&videoid=15891300",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -92,44 +92,44 @@
         },
         {
             "id": 11,
-            "isim": "Al-Shahaniya Sports Club  - Katar SC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891299__1__mediaplaylist.m3u8?s=ea567c96b5091f58d127000c2ce9b31c6b29e41cb0b7b7b110c2ee8976d387b6&t=1744387690977&ai=3&av=1025&ui=0&videoid=15891299",
+            "isim": "Diósgyőri VTK  - Kecskeméti TE",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891424__1__mediaplaylist.m3u8?s=70ea72619f47066846363342d3a7b98011e4485c35b2b62692e331142bd0f3ec&t=1744388890771&ai=3&av=1025&ui=0&videoid=15891424",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:30"
+            "group": "19:00"
         },
         {
             "id": 12,
-            "isim": "Al-Duhail  - Al-Arabi Doha",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891241__1__mediaplaylist.m3u8?s=e5cc8475aa932f6258220ee790928331d286b0f1d714afea58eeed94f2c1486c&t=1744387690711&ai=3&av=1025&ui=0&videoid=15891241",
+            "isim": "Al-Raed  - Al-Ahli SC",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891608__1__mediaplaylist.m3u8?s=a9f6179aa9b139e9670e1fed63ee0f493235f1bea42fea9e719168358d68c13f&t=1744388890194&ai=3&av=1025&ui=0&videoid=15891608",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:30"
+            "group": "19:00"
         },
         {
             "id": 13,
-            "isim": "Al Sadd SC  - Al-Khor Sports Club",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891225__1__mediaplaylist.m3u8?s=5c5020885acba69ec35da82f347522a9146168758c1d89b24baaa028cdbbd33c&t=1744387690430&ai=3&av=1025&ui=0&videoid=15891225",
+            "isim": "Ethnikos Achna  - Karmiotissa Polemidion",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891501__1__mediaplaylist.m3u8?s=0c2493e7189d35ab98cce60f6df1d6df311e6844a0216a83b5282501f5ccb418&t=1744388892842&ai=3&av=1025&ui=0&videoid=15891501",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:30"
+            "group": "19:00"
         },
         {
             "id": 14,
-            "isim": "Al Ahli Doha  - Umm Salal SC",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891300__1__mediaplaylist.m3u8?s=ddd61ff61a07fe899819026dcf6fe85126fbd907c1bf63e29a22c822bca2ca75&t=1744387690189&ai=3&av=1025&ui=0&videoid=15891300",
+            "isim": "FC Dynamo Moskova (Gençler)  - FC Rubin Kazan (Gençler)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891445__1__mediaplaylist.m3u8?s=8cac1a6861f37219252ffcc361dabe1c202b0c732293fa7d134c43b50d966c86&t=1744388893105&ai=3&av=1025&ui=0&videoid=15891445",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "18:30"
+            "group": "19:00"
         },
         {
             "id": 15,
-            "isim": "Ethnikos Achna  - Karmiotissa Polemidion",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891501__1__mediaplaylist.m3u8?s=17a8a59840333e3cb3324f3c37229de703fde7d9466e121d97e1b4365c11b6ab&t=1744387691761&ai=3&av=1025&ui=0&videoid=15891501",
+            "isim": "Paradou AC  - El Bayadh",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891503__1__mediaplaylist.m3u8?s=73c9ef11c705b66e7ab2766f2629ea1163d1f92daf452539b6feca9049305c66&t=1744388893645&ai=3&av=1025&ui=0&videoid=15891503",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -137,8 +137,8 @@
         },
         {
             "id": 16,
-            "isim": "FC Dynamo Moskova (Gençler)  - FC Rubin Kazan (Gençler)",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891445__1__mediaplaylist.m3u8?s=e684a6042709cf86f673fd756e23e51ba612d71e07ad0c2bf17881070fa12e67&t=1744387692013&ai=3&av=1025&ui=0&videoid=15891445",
+            "isim": "1. SK Prostějov  - Slavia II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891549__1__mediaplaylist.m3u8?s=21d6960fd15725506bdcc7d6b90a045b2467be0ad9f3be9ed39a81913b3dfb37&t=1744388893917&ai=3&av=1025&ui=0&videoid=15891549",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -146,8 +146,8 @@
         },
         {
             "id": 17,
-            "isim": "Paradou AC  - El Bayadh",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891503__1__mediaplaylist.m3u8?s=33947aa9f57ab3a68908caf72232909db49f4eb1d2f8db12134d4f178c41c746&t=1744387692576&ai=3&av=1025&ui=0&videoid=15891503",
+            "isim": "Zlin  - FC Zbrojovka Brno",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891550__1__mediaplaylist.m3u8?s=9a0caa341c874d5b831bf195ad59673d6f0483180961d2aaa28456a143d7b9ce&t=1744388894195&ai=3&av=1025&ui=0&videoid=15891550",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -156,7 +156,7 @@
         {
             "id": 18,
             "isim": "FK Sarajevo  - HŠK Zrinjski Mostar",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891444__1__mediaplaylist.m3u8?s=660c80313019234d0db05cf010f1cd02ac5c23af3091838b3d9c70fb0db3d3ce&t=1744387692885&ai=3&av=1025&ui=0&videoid=15891444",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891444__1__mediaplaylist.m3u8?s=a04b32cd62980e88ca6a3caca61e774dde88d7e5f500020d5111d54e128ea826&t=1744388894447&ai=3&av=1025&ui=0&videoid=15891444",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -165,7 +165,7 @@
         {
             "id": 19,
             "isim": "Mazatlan U23  - C.D. Guadalajara U23",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891458__1__mediaplaylist.m3u8?s=2395fea899a2ae399c57f346e7968fb341346646a1d78b3e773796d75239d75a&t=1744387693172&ai=3&av=1025&ui=0&videoid=15891458",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891458__1__mediaplaylist.m3u8?s=54d42b2f2bb9b5e29a91374d83d6797fdc45c436f3957a0288c3f4d1d69039a2&t=1744388894731&ai=3&av=1025&ui=0&videoid=15891458",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -173,12 +173,12 @@
         },
         {
             "id": 20,
-            "isim": "Diósgyőri VTK  - Kecskeméti TE",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891424__1__mediaplaylist.m3u8?s=6f4d5601e9a1dc7141714ce3e8271f03a32551c50ee6413449a6b09796640fc5&t=1744387689655&ai=3&av=1025&ui=0&videoid=15891424",
+            "isim": "FC Spartak Moskova  - Dynamo Makhachkala",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891622__1__mediaplaylist.m3u8?s=95b9a24d74004e0f59543d699e5f7d7b2d4d24daface359a54faf4a4a9e2f2db&t=1744388889920&ai=3&av=1025&ui=0&videoid=15891622",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "19:30"
         },
         {
             "id": 21,
