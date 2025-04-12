@@ -2,51 +2,132 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Samsunspor  - Galatasaray",
-            "link": "https://aged-fire-dd6b.uploadmak.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
+            "isim": "Wellington Olympic  - Waterside Karori",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895238__1__mediaplaylist.m3u8?s=ad678a67c71578723d28f7c92ef47baf243beddea40a1b5e0c255fa9467ac2ac&t=1744435691027&ai=3&av=1025&ui=0&videoid=15895238",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
+            "group": "06:45"
         },
         {
             "id": 2,
-            "isim": "Ethnikos Achna  - Karmiotissa Polemidion",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891501__1__mediaplaylist.m3u8?s=39c6c3408fa1716c04fdfcdfb7a6f113ed9c2636de29ee1e8de7a5fee451c371&t=1744394289969&ai=3&av=1025&ui=0&videoid=15891501",
+            "isim": "Seoul Jungnang  - Pyeongchang United",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895227__1__mediaplaylist.m3u8?s=dee2e3a43cff96044b9fde6867ca01f79b815fda8554bf45a0ce46376fd504aa&t=1744435691795&ai=3&av=1025&ui=0&videoid=15895227",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "07:00"
         },
         {
             "id": 3,
-            "isim": "Paradou AC  - El Bayadh",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891503__1__mediaplaylist.m3u8?s=3cc82a58e856c8c396a9862a4c7d9b0f5aee398f48ecedb5218dcb88a9ac2b34&t=1744394290714&ai=3&av=1025&ui=0&videoid=15891503",
+            "isim": "Nippon Sport Science University (Bayanlar)  - Viamaterras Miyazaki (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895218__1__mediaplaylist.m3u8?s=b88e285ab94bd7a39aa28aafa089ec5cd622413300d5dc75a87b41cb61acdd7a&t=1744435691307&ai=3&av=1025&ui=0&videoid=15895218",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "07:00"
         },
         {
             "id": 4,
-            "isim": "Mazatlan U23  - C.D. Guadalajara U23",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891458__1__mediaplaylist.m3u8?s=655b2347f0185572d98e0f9ec5b760589ffe144182d9ca7b5a777bdbd9c78da3&t=1744394291000&ai=3&av=1025&ui=0&videoid=15891458",
+            "isim": "FC Maruyasu Okazaki  - Reilac Shiga",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895224__1__mediaplaylist.m3u8?s=9828ed667a6d0041cb603bf6a6d6451f2d38a432b6a1381013f7e30b668498d4&t=1744435688614&ai=3&av=1025&ui=0&videoid=15895224",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:00"
+            "group": "07:00"
         },
         {
             "id": 5,
-            "isim": "SK Batov 1930  - FC Kozlovice",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891665__1__mediaplaylist.m3u8?s=8b7a34c9172e4df9358f98e403f4ae53c60c47d053766d13b33931d222bba0be&t=1744394292923&ai=3&av=1025&ui=0&videoid=15891665",
+            "isim": "Honda F.C.  - Yokogawa Musashino",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895219__1__mediaplaylist.m3u8?s=09ccb4798f8b7b201a0e89b097b856c5685c1735c0f863f541b75ffd1063432f&t=1744435688887&ai=3&av=1025&ui=0&videoid=15895219",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "19:30"
+            "group": "07:00"
         },
         {
             "id": 6,
+            "isim": "Verspah Oita  - Briobecca Urayasu",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895212__1__mediaplaylist.m3u8?s=506b676653320dfda489f50a0a6fcbb2896ffb709f0044b0fee5b985fd283be1&t=1744435689166&ai=3&av=1025&ui=0&videoid=15895212",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "07:00"
+        },
+        {
+            "id": 7,
+            "isim": "AS Elfen Saitama (Bayanlar)  - Nojima (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895627__1__mediaplaylist.m3u8?s=f6af84388a031761a4e53fe699a10e8cf7aa7d2a8042e00f3a10f21b91f575f4&t=1744435689689&ai=3&av=1025&ui=0&videoid=15895627",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:00"
+        },
+        {
+            "id": 8,
+            "isim": "Dangjin Citizen  - Sejong SA",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895555__1__mediaplaylist.m3u8?s=06e8a51409604840ad1e5716ad90d814bb5e2718d75c59d6efe18bc32857fe2e&t=1744435691572&ai=3&av=1025&ui=0&videoid=15895555",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:00"
+        },
+        {
+            "id": 9,
+            "isim": "AC Nagano Parceiro (Bayanlar)  - JEF United Ichihara Chiba (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895647__1__mediaplaylist.m3u8?s=9c212ac72946a0de77f4a51cd36182d9e2472b8d883aa9f5f5a70b734fa50f84&t=1744435689446&ai=3&av=1025&ui=0&videoid=15895647",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:00"
+        },
+        {
+            "id": 10,
+            "isim": "Langwarrin FC  - Eastern Lions SC",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895696__1__mediaplaylist.m3u8?s=c4badcf2a2fc27f78f8cbf20c93e20d2c018220a962acddf37d633c62f8cad97&t=1744435688324&ai=3&av=1025&ui=0&videoid=15895696",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:00"
+        },
+        {
+            "id": 11,
+            "isim": "Adelaide Cobras  - Cumberland United",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895741__1__mediaplaylist.m3u8?s=a8bc823a0095fc07e32a3412ee9851ed4005d253df7abc44b5b6db88f0e3877e&t=1744435689959&ai=3&av=1025&ui=0&videoid=15895741",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:30"
+        },
+        {
+            "id": 12,
+            "isim": "Fulham United  - Adelaide Vipers",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895752__1__mediaplaylist.m3u8?s=88815145627f27bece3d1f0c3bd52db93f144ba10403bbc53906452987c899ae&t=1744435690228&ai=3&av=1025&ui=0&videoid=15895752",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:30"
+        },
+        {
+            "id": 13,
+            "isim": "Pontian Eagles  - Adelaide Olympic F.C.",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895749__1__mediaplaylist.m3u8?s=2d5b14b87ee4ce9904d54a516beffdd18061d26f5131d31a8eefac37f9e2c309&t=1744435690473&ai=3&av=1025&ui=0&videoid=15895749",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:30"
+        },
+        {
+            "id": 14,
+            "isim": "The Cove  - Salisbury United",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15895745__1__mediaplaylist.m3u8?s=66e2ec7378682a52d13b141b72c724c03d193bc8e001cf963592154dd977b696&t=1744435690745&ai=3&av=1025&ui=0&videoid=15895745",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "08:30"
+        },
+        {
+            "id": 15,
             "isim": "Hamburg  - Braunschweig",
             "link": "https://aged-fire-dd6b.uploadmak.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
@@ -55,115 +136,16 @@
             "group": "19:30"
         },
         {
-            "id": 7,
-            "isim": "FC Spartak Moskova  - Dynamo Makhachkala",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891622__1__mediaplaylist.m3u8?s=7274184715cdeef452cc9cf5363c9c44054fed0f49b9fa7a4e83a3dd742e11d3&t=1744394289147&ai=3&av=1025&ui=0&videoid=15891622",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:30"
-        },
-        {
-            "id": 8,
-            "isim": "Hluboka nad Vltavou  - Petrin Plzen II",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891668__1__mediaplaylist.m3u8?s=9c80c2c37dea3c44ba4b91dcb57c8eee9c171bd3b77f49bb055588a9b0ea2400&t=1744394292647&ai=3&av=1025&ui=0&videoid=15891668",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:30"
-        },
-        {
-            "id": 9,
-            "isim": "FCM Traiskirchen  - SC Wiener Viktoria",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891723__1__mediaplaylist.m3u8?s=2d00252ae5496e1ca1f6aa63624981213ed37bb58e1e6b8e8994e6c899714cc1&t=1744394291532&ai=3&av=1025&ui=0&videoid=15891723",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:30"
-        },
-        {
-            "id": 10,
-            "isim": "Al Ramtha  - Al-Salt",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891744__1__mediaplaylist.m3u8?s=430c6ea0ef10c0d2e303eeffcc395ddd275725afdafcd760bf8ead9db0925f2f&t=1744394290458&ai=3&av=1025&ui=0&videoid=15891744",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "19:45"
-        },
-        {
-            "id": 11,
-            "isim": "Atletico Pachuca  - CH Futbol Club",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892231__1__mediaplaylist.m3u8?s=e12aeaa8002260d675fe719da46f9d0dae4feb92b17d1632bd999b49c54a8dc3&t=1744394293204&ai=3&av=1025&ui=0&videoid=15892231",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 12,
-            "isim": "1. FC Karlovy Vary  - SK Hrebec",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892135__1__mediaplaylist.m3u8?s=905f8773ba75b01a0455704cc3ffaef005843bc8a00f90bb8131aad416d2f1ce&t=1744394292383&ai=3&av=1025&ui=0&videoid=15892135",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 13,
-            "isim": "SK Treibach  - DSV Leoben",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892056__1__mediaplaylist.m3u8?s=c1cb6d9dcd7c983d89c35fdefb15fc4afd32e086b3ce0f8c57d367b078b22eb0&t=1744394292117&ai=3&av=1025&ui=0&videoid=15892056",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 14,
-            "isim": "COD Meknes  - OC Safi",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15891932__1__mediaplaylist.m3u8?s=b8e8b450d4a8f7fffafe2ab5c0db21ecad237497501b4aee19433bd0f942f89e&t=1744394289671&ai=3&av=1025&ui=0&videoid=15891932",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 15,
-            "isim": "Neman Grodno  - FC Slutsk",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892261__1__mediaplaylist.m3u8?s=1ab9251adb347598917c9d24e8733a53a23dd2988a38897501769beaa0bab0f3&t=1744394289394&ai=3&av=1025&ui=0&videoid=15892261",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
             "id": 16,
-            "isim": "Al-Salmiya SC  - Al-Sahel Kuwait",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892341__1__mediaplaylist.m3u8?s=902c923e0bbdc0b5ff43f6b1715caf227eefbeec13bf352dc385d57437d72409&t=1744394290203&ai=3&av=1025&ui=0&videoid=15892341",
+            "isim": "Samsunspor  - Galatasaray",
+            "link": "https://aged-fire-dd6b.uploadmak.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:15"
+            "group": "20:00"
         },
         {
             "id": 17,
-            "isim": "Favoritner AC  - SV Oberwart",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892317__1__mediaplaylist.m3u8?s=78f3f411b6eea90dfa79668abcca77cb2273a7015bf76c82584da93c71e0bdaf&t=1744394291274&ai=3&av=1025&ui=0&videoid=15892317",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:30"
-        },
-        {
-            "id": 18,
-            "isim": "Wiener Sport-Club  - Mauerwerk",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15892344__1__mediaplaylist.m3u8?s=a1011ac337168da5d316a27044a2c568745eac888d7a41fef49efd0c26641733&t=1744394291852&ai=3&av=1025&ui=0&videoid=15892344",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:30"
-        },
-        {
-            "id": 19,
             "isim": "Wolfsburg  - RB Leipzig",
             "link": "https://aged-fire-dd6b.uploadmak.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
             "kategori": "Spor",
@@ -172,7 +154,7 @@
             "group": "21:30"
         },
         {
-            "id": 20,
+            "id": 18,
             "isim": "Lens  - Reims",
             "link": "https://aged-fire-dd6b.uploadmak.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-5.m3u8",
             "kategori": "Spor",
