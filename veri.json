@@ -2,71 +2,71 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "Eyüpspor  - Adana Demirspor",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8",
+            "isim": "Aston Villa  - PSG",
+            "link": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
+            "group": "22:00"
         },
         {
             "id": 2,
-            "isim": "Kocaelispor  - Yeni Malatyaspor",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-2.m3u8",
+            "isim": "Borrusia Dortmund  - Barcelona",
+            "link": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
+            "group": "22:00"
         },
         {
             "id": 3,
-            "isim": "Moghreb Tétouan  - Ittihad Riadi Tanger",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15916973__1__mediaplaylist.m3u8?s=d12163278e32d877779b722d6153b558613b33fcc7cba31eea92e329fa127caa&t=1744653488444&ai=3&av=1025&ui=0&videoid=15916973",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 4,
-            "isim": "Club Marina CR  - Atletico Pachuca",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15917030__1__mediaplaylist.m3u8?s=5c8ff10fcc018b20a2a0fec0a66ef624a7ebb2d117bb0758cc33de9cf3c81536&t=1744653489609&ai=3&av=1025&ui=0&videoid=15917030",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 5,
-            "isim": "Tacikistan U17  - Güney Kore U17",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/spor-smart-2.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:15"
-        },
-        {
-            "id": 6,
-            "isim": "Al Draih  - Al-Ula",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15917066__1__mediaplaylist.m3u8?s=f2ffa69fdb142674c8e330c4289357bd242bb318857829863bd0c0573f2e63e8&t=1744653489292&ai=3&av=1025&ui=0&videoid=15917066",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "20:15"
-        },
-        {
-            "id": 7,
-            "isim": "Jeddah Club  - Al-Najma Unaizah",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15917254__1__mediaplaylist.m3u8?s=4bd50663f7980787ae92cbdc77056cac2f3a4d88aac81b8562d14be695f9dd6e&t=1744653488734&ai=3&av=1025&ui=0&videoid=15917254",
+            "isim": "Al Adalah  - Al Ain Al-Atawlah",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15925927__1__mediaplaylist.m3u8?s=f4aaa55f85ed750da9bfd012ece92a6118f9f95b81e6942ab348cbb0020b834f&t=1744745888529&ai=3&av=1025&ui=0&videoid=15925927",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "20:45"
         },
         {
+            "id": 4,
+            "isim": "Argentinos Juniors II  - CA Aldosivi II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926005__1__mediaplaylist.m3u8?s=914ee82fe513f946dd660f27675a3f38754a6de1ad5bb278f8ab1e1e2938de6e&t=1744745888808&ai=3&av=1025&ui=0&videoid=15926005",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:00"
+        },
+        {
+            "id": 5,
+            "isim": "Club Atletico Tigre II  - Central Cordoba de Santiago del Estero II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926004__1__mediaplaylist.m3u8?s=6ce96b7c19e528bbe2797e4599eda147b33262673fad6a26d0e9b53c595e5a80&t=1744745889065&ai=3&av=1025&ui=0&videoid=15926004",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:00"
+        },
+        {
+            "id": 6,
+            "isim": "Victoriano Arenas II  - Deportivo Camioneros II",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926122__1__mediaplaylist.m3u8?s=06a07d0f3f5eceff8ee5f43f47fc6291d7c9f7bb0455977726a3625b112a70b5&t=1744745889684&ai=3&av=1025&ui=0&videoid=15926122",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:00"
+        },
+        {
+            "id": 7,
+            "isim": "Breiðablik UBK (Bayanlar)  - Stjarnan (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926090__1__mediaplaylist.m3u8?s=c4835a273ba915b4b16f0b871a8b22722db74c9e7ef5fcfd21282d09084f467b&t=1744745889941&ai=3&av=1025&ui=0&videoid=15926090",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "21:00"
+        },
+        {
             "id": 8,
-            "isim": "Budapest Honvéd  - Gyirmot",
-            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15917307__1__mediaplaylist.m3u8?s=51b4bdc37b3d0a3fa5e50e3f064aabb8fe54c0e8ed32cf8dce71e22443fd9177&t=1744653489040&ai=3&av=1025&ui=0&videoid=15917307",
+            "isim": "Throttur (Bayanlar)  - Fram Reykjavik (Bayanlar)",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926091__1__mediaplaylist.m3u8?s=cd7069f8d25d155aeacd126fd08eaf163cb8ee13b2065dfb5acd31808214e2ce&t=1744745890214&ai=3&av=1025&ui=0&videoid=15926091",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
@@ -74,39 +74,12 @@
         },
         {
             "id": 9,
-            "isim": "Atletico Aldosivi  - Racing Club",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/spor-smart.m3u8",
+            "isim": "USM Alger  - USM El Harrach",
+            "link": "https://sea-lion-app-r74uy.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__15926529__1__mediaplaylist.m3u8?s=30008de16a7266fcbe82a36626bddb64626cef191d5c2c14b6c3eb0be293c7fc&t=1744745890476&ai=3&av=1025&ui=0&videoid=15926529",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "21:30"
-        },
-        {
-            "id": 10,
-            "isim": "Bastia  - Stade Lavallois",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-4.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:45"
-        },
-        {
-            "id": 11,
-            "isim": "Bournemouth  - Fulham",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-3.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "22:00"
-        },
-        {
-            "id": 12,
-            "isim": "Atletico Madrid  - Valladolid",
-            "link": "https://steep-silence-b428.freelinkgenerator.workers.dev/https://fener2.demoscript.buzz/hls/s-sport.m3u8",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "22:00"
+            "group": "22:45"
         }
     ]
 }
