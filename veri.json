@@ -2,12 +2,273 @@
     "ormoxChnlx": [
         {
             "id": 1,
-            "isim": "İnter  - Barcelona 2",
+            "isim": "PSG  - Arsenal",
             "link": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
             "group": "22:00"
+        },
+        {
+            "id": 2,
+            "isim": "Al-Hudood  - Naft Al-Basra",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16111947__1__mediaplaylist.m3u8?s=f37c9187b645f52b96acebc86011070db60a29a70532e4addd3eba0121db1c9d&t=1746635890414&ai=3&av=1025&ui=0&videoid=16111947",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 3,
+            "isim": "Erbil SC  - Naft Maysan",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16111944__1__mediaplaylist.m3u8?s=66efc26eb345545eaa955a4f9cc9832c7cafcd34cad423c45a90d234b7f0d519&t=1746635890661&ai=3&av=1025&ui=0&videoid=16111944",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 4,
+            "isim": "AC Sparta Prague II  - SK Sigma Olomouc II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16111983__1__mediaplaylist.m3u8?s=3d474d0dc10f3b5d2b1b577b70cb2e344947f4e608a0e2d34afeca2628e47201&t=1746635891737&ai=3&av=1025&ui=0&videoid=16111983",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 5,
+            "isim": "Banik Ostrava II  - Slavia II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16111965__1__mediaplaylist.m3u8?s=4de417bf32605218faa5ca4e8998034e08a592e6e9653978e240e841734489ff&t=1746635892007&ai=3&av=1025&ui=0&videoid=16111965",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 6,
+            "isim": "Loko Praha  - Bohemians 1905 II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112048__1__mediaplaylist.m3u8?s=b5d9a3ede48d7375029bd0f63576574e57daf5768b8b29b5b97765ea0e346d9b&t=1746635897198&ai=3&av=1025&ui=0&videoid=16112048",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 7,
+            "isim": "Dukla Prague II  - Dynamo II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112013__1__mediaplaylist.m3u8?s=714e20ad1c6ea85ceb33abd4ea8fe2a0598366a05968679b38705d208572449d&t=1746635896131&ai=3&av=1025&ui=0&videoid=16112013",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:00"
+        },
+        {
+            "id": 8,
+            "isim": "TJ Jiskra Domažlice  - Motorlet Praha",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112246__1__mediaplaylist.m3u8?s=0de1e4da99c0cf2e1e899af6b9d0faed31985f95c0eae746838bbd5e32267006&t=1746635898056&ai=3&av=1025&ui=0&videoid=16112246",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 9,
+            "isim": "Sokol Hostoun  - FC Písek",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112242__1__mediaplaylist.m3u8?s=efab7d1a407f233ddb3a5ee7bb9ecfd37a3705e9b1d0b4ac407ab6268350205a&t=1746635897791&ai=3&av=1025&ui=0&videoid=16112242",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 10,
+            "isim": "SK Zapy  - Jablonec II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112263__1__mediaplaylist.m3u8?s=a0f6793275a87c102bb61a84ed648afb238fc765242b065fb4df42fb7973be70&t=1746635897510&ai=3&av=1025&ui=0&videoid=16112263",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 11,
+            "isim": "FK Blansko  - Karvina II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112268__1__mediaplaylist.m3u8?s=4c80c8d212c7720a0a144b1854309aa5f0ec26d85050639c2eaaacfb6db4ec0d&t=1746635896627&ai=3&av=1025&ui=0&videoid=16112268",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 12,
+            "isim": "FK Admira Prague  - Petrin Plzen",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112250__1__mediaplaylist.m3u8?s=d498d28dbb289b07d9347770743032700dd7360b02120d842edce1a02c430a6f&t=1746635896379&ai=3&av=1025&ui=0&videoid=16112250",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 13,
+            "isim": "Chlumec NC  - Kolin",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112260__1__mediaplaylist.m3u8?s=6b6bfeed94b798a45357ec90a3c6cc02d1b291c3cb1923dc185bfb9fed41c383&t=1746635895865&ai=3&av=1025&ui=0&videoid=16112260",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 14,
+            "isim": "Banik Sous  - TJ Sokol Živanice",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112255__1__mediaplaylist.m3u8?s=3fa60c18d5815cc1dfb10b132af214e75596fe7a4fcdc6ff5ae9f83481a407ee&t=1746635895580&ai=3&av=1025&ui=0&videoid=16112255",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 15,
+            "isim": "Silon Taborsko  - FC Graffin Vlašim",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112233__1__mediaplaylist.m3u8?s=d26bbfa71c3a34f160a19046029d893be614ed35ad35e5b21c943eeeabd0d8e0&t=1746635893304&ai=3&av=1025&ui=0&videoid=16112233",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 16,
+            "isim": "SFC Opava  - Zlin",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112238__1__mediaplaylist.m3u8?s=22a354db698bb05e8badf00f0df2556ba12de72d1e1fc55bcb86e587bc7fc88a&t=1746635893057&ai=3&av=1025&ui=0&videoid=16112238",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 17,
+            "isim": "MFK Vyskov  - SK Lisen",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112228__1__mediaplaylist.m3u8?s=a4439ff3289bea9a864645f4cfd64190daf45373e507a554b17a03e2fd62ab1a&t=1746635892811&ai=3&av=1025&ui=0&videoid=16112228",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 18,
+            "isim": "MFK Chrudim  - 1. SK Prostějov",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112230__1__mediaplaylist.m3u8?s=2c544def78b8ec58f8734f23202c4041508f79bf3cebcc3b7dd10b4db65fd831&t=1746635892559&ai=3&av=1025&ui=0&videoid=16112230",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 19,
+            "isim": "FK Varnsdorf  - FC Vysočina Jihlava",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112232__1__mediaplaylist.m3u8?s=12982485f113d2d641d6f1c53726fe305e37ef58f7800e688e1ae6aae84a9ec9&t=1746635892315&ai=3&av=1025&ui=0&videoid=16112232",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "18:30"
+        },
+        {
+            "id": 20,
+            "isim": "Alta IF  - Kristiansund BK",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112627__1__mediaplaylist.m3u8?s=ca3bd970c2db36690628adb6e0cfa1e53f93a4acc2f61f4c079808030c92ad19&t=1746635893825&ai=3&av=1025&ui=0&videoid=16112627",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 21,
+            "isim": "Lyn Fotball  - HamKam",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112631__1__mediaplaylist.m3u8?s=bde6dcbd01aaf2409dbb28960ba8b81a8bc4aba05ae92e60eccb15e0fb77dade&t=1746635894081&ai=3&av=1025&ui=0&videoid=16112631",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 22,
+            "isim": "Os Turnforening  - Åsane Fotball",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112626__1__mediaplaylist.m3u8?s=09ad0d17b8de5726afeb1d38b4ea9d2afadcfb7073a4ffbeee85c1e9629674a9&t=1746635894353&ai=3&av=1025&ui=0&videoid=16112626",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 23,
+            "isim": "Pors Grenland  - Fredrikstad FK",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112624__1__mediaplaylist.m3u8?s=511430e4daf04bea12f257173f4473497e39be0ed934b33c6b93a102f79075ed&t=1746635894656&ai=3&av=1025&ui=0&videoid=16112624",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 24,
+            "isim": "Sarpsborg 08 FF  - Sandefjord Fotball",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112628__1__mediaplaylist.m3u8?s=31cf401e69b4a6c867f674c0ecab850eb71ac13230097828c570f72236f63032&t=1746635894959&ai=3&av=1025&ui=0&videoid=16112628",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 25,
+            "isim": "Strømmen IF  - Mjøndalen IF",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112630__1__mediaplaylist.m3u8?s=cb5f3769d456c79ff1382d9a0b5978505d64ff1501486a90a55da6afdca94f03&t=1746635895236&ai=3&av=1025&ui=0&videoid=16112630",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 26,
+            "isim": "Al Fahaheel  - Al-Salmiya SC",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112423__1__mediaplaylist.m3u8?s=ea3ef25fa4188ed237b51b610c89ce10d16033506d43ecb4b0772def10aec9dd&t=1746635893558&ai=3&av=1025&ui=0&videoid=16112423",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 27,
+            "isim": "FK Ústí nad Labem  - FC Slovan Liberec II",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112488__1__mediaplaylist.m3u8?s=5e29bc3fab6cc6f0559b8c99b9b90c076d09695f268220efe92b6bd925f0dd92&t=1746635896908&ai=3&av=1025&ui=0&videoid=16112488",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 28,
+            "isim": "Apollon Limassol  - AEP Paphos F.C.",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112415__1__mediaplaylist.m3u8?s=d3ba2ef2e687776aa277ccaf0449a2b98918e372e76cda475854f638900f52ab&t=1746635891205&ai=3&av=1025&ui=0&videoid=16112415",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 29,
+            "isim": "AEK Larnaca  - AC Omonia",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112414__1__mediaplaylist.m3u8?s=c00946d8f9c3f6eed0ddce12a2cbd4905d4c62000b65be6048f9f4495750c219&t=1746635890911&ai=3&av=1025&ui=0&videoid=16112414",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:00"
+        },
+        {
+            "id": 30,
+            "isim": "Al-Bukayriyah  - Al Hazm Rass",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16112570__1__mediaplaylist.m3u8?s=d973b45f25993a953ac13ce78a210b6c5a866a863c58ba1ed29bf93c016c09f9&t=1746635891487&ai=3&av=1025&ui=0&videoid=16112570",
+            "kategori": "Spor",
+            "player": "HLS",
+            "tip": "M3U8",
+            "group": "19:20"
         }
     ]
 }
