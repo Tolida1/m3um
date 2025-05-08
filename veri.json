@@ -11,57 +11,12 @@
         },
         {
             "id": 2,
-            "isim": "Sogndal Fotball  - KIL Toppfotball",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113224__1__mediaplaylist.m3u8?s=9c1cb7523d771b5a1bed22465435a1c6e1f5f81da59320916797dfc19cab5643&t=1746646689700&ai=3&av=1025&ui=0&videoid=16113224",
+            "isim": "Alto Zambeze  - Bravos da Quissama",
+            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16116960__1__mediaplaylist.m3u8?s=a9b0dc54971989db515efe397275f14f0e08156dc389ddedbcac27d488d06525&t=1746689890662&ai=3&av=1025&ui=0&videoid=16116960",
             "kategori": "Spor",
             "player": "HLS",
             "tip": "M3U8",
-            "group": "20:00"
-        },
-        {
-            "id": 3,
-            "isim": "FC Biel-Bienne  - Grand-Saconnex",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113331__1__mediaplaylist.m3u8?s=47d9931f237c1d3e8fee28c8a513aab23fc74f5a439a30fe3df8be1c009c8531&t=1746646688816&ai=3&av=1025&ui=0&videoid=16113331",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:00"
-        },
-        {
-            "id": 4,
-            "isim": "Velez Sarsfield (Bayanlar)  - Ferro Carril Oeste (Bayanlar)",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113444__1__mediaplaylist.m3u8?s=feb6a66028132fa304b451f721fc352bfead92e032eca9ef51cbbad774f1d4e7&t=1746646689981&ai=3&av=1025&ui=0&videoid=16113444",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:00"
-        },
-        {
-            "id": 5,
-            "isim": "F.C. Fiorentino  - Società Polisportiva Tre Fiori",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113658__1__mediaplaylist.m3u8?s=6196806c9c8b9559244557413efbb10eddae84b7b8c618f68831466d222eadae&t=1746646689095&ai=3&av=1025&ui=0&videoid=16113658",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:45"
-        },
-        {
-            "id": 6,
-            "isim": "S.C. Faetano  - S.P. La Fiorita",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113656__1__mediaplaylist.m3u8?s=ea36975fd298f5793ae3a258e1de82e9ea3579cc5f708103e8eeade5be4852ed&t=1746646689425&ai=3&av=1025&ui=0&videoid=16113656",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "21:45"
-        },
-        {
-            "id": 7,
-            "isim": "Renaissance Sportive de Berkane  - Chabab Mohammedia",
-            "link": "https://sea-lion-app-8e84c.ondigitalocean.app/https:____edge10.xmediaget.com__hls-live__16113591__1__mediaplaylist.m3u8?s=c6a11560a73f5d838cf9368193e75d1ad8f5fbc3342ac5a9235f13eb3c0ce192&t=1746646688540&ai=3&av=1025&ui=0&videoid=16113591",
-            "kategori": "Spor",
-            "player": "HLS",
-            "tip": "M3U8",
-            "group": "22:00"
+            "group": "09:00"
         }
     ]
 }
